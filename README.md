@@ -2,7 +2,7 @@
 
 This project uses the Excel data file titled 'Assign 4.xlsx' (Date File).  You will also need to download Python and related software to complete this project.
 
-# Assignment Set Up
+# Project Set Up
 The output for this project will be the Jupyter Notebook file that you create in making the model below.
 
 All calculations are done within Python.  The Data File has been ‘pre-cleaned’ so no formatting, calculations or data clean-up in Excel is required.
