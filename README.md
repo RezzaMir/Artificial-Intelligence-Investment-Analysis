@@ -1,6 +1,6 @@
 # Investment Analysis (Python Modelling)
 
-Note: This assignment uses the Excel data file titled 'Assign 4.xlsx' (Date File) found on ACORN.  You will also need to download Python and related software to complete this assignment.
+Note: This project uses the Excel data file titled 'Assign 4.xlsx' (Date File) found on ACORN.  You will also need to download Python and related software to complete this assignment.
 
 # Assignment Set Up
 The output for this assignment will be the Jupyter Notebook file that you create in making the model below.
