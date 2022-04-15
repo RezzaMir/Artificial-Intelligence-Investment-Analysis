@@ -3,12 +3,12 @@
 Note: This project uses the Excel data file titled 'Assign 4.xlsx' (Date File) found on ACORN.  You will also need to download Python and related software to complete this assignment.
 
 # Assignment Set Up
-The output for this assignment will be the Jupyter Notebook file that you create in making the model below.
+The output for this project will be the Jupyter Notebook file that you create in making the model below.
 
-All calculations must be done within Python.  The Data File has been ‘pre-cleaned’ for you so no formatting, calculations or data clean-up in Excel is required.
+All calculations are done within Python.  The Data File has been ‘pre-cleaned’ so no formatting, calculations or data clean-up in Excel is required.
 
 # Model 4a: Python Risk and Return Calculations
-Create a model in Python that allows the user to enter a ticker from the Data File and Python will return each of the following:
+Created a model in Python that allows the user to enter a ticker from the Data File and Python will return each of the following:
 
 i.	Annualized Arithmetic Return
 
@@ -27,7 +27,7 @@ vii.	90% Confidence Interval of Annual Returns
 viii.	A graph representing the growth of $100 invested in the specific stock on the first day in the sample through the last day in the sample
 
 # Model 4b: Python Basic Stock Comparison
-Create a model in Python that allows the user to be able to enter two tickers from the Data File and Python will return each of the following for the two stocks, indicating which of the two is preferred:
+Created a model in Python that allows the user to be able to enter two tickers from the Data File and Python will return each of the following for the two stocks, indicating which of the two is preferred:
 
 i.	Annualized Geometric Return
 
@@ -36,7 +36,7 @@ ii.	Annualized Volatility
 iii.	Coefficient of Variation
 
 # Model 4c: CAPM in Python 
-Create a model in Python as follows:
+Created a model in Python as follows:
 
 i.	The user can enter a ticker from the Data File and Python will return that stock’s beta.
 
