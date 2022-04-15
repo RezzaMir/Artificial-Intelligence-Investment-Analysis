@@ -1,6 +1,6 @@
 # Investment Analysis (Python Modelling)
 
-Note: This assignment uses the Excel data file titled 'Assign 4.xlsx' (Date File) found on ACORN.  You will also need to download Python and related software to complete this assignment.  Please see the Python Lab videos on ACORN for instructions on software installation.
+Note: This assignment uses the Excel data file titled 'Assign 4.xlsx' (Date File) found on ACORN.  You will also need to download Python and related software to complete this assignment.
 
 # Assignment Set Up
 The output for this assignment will be the Jupyter Notebook file that you create in making the model below.  Save this file in the same format as you used for prior assignments (for example, MacLean-Davis-Assignment4).  Note that the file extension will not be “.xlsx” as this is for Microsoft Excel.  Your file extension will be “.jpynb”.
