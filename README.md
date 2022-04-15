@@ -3,11 +3,9 @@
 Note: This assignment uses the Excel data file titled 'Assign 4.xlsx' (Date File) found on ACORN.  You will also need to download Python and related software to complete this assignment.
 
 # Assignment Set Up
-The output for this assignment will be the Jupyter Notebook file that you create in making the model below.  Save this file in the same format as you used for prior assignments (for example, MacLean-Davis-Assignment4).  Note that the file extension will not be “.xlsx” as this is for Microsoft Excel.  Your file extension will be “.jpynb”.
+The output for this assignment will be the Jupyter Notebook file that you create in making the model below.
 
-All calculations must be done within Python.  The Data File has been ‘pre-cleaned’ for you so no formatting, calculations or data clean-up in Excel is required.  I will be running your Python code against the original Data File, so any data manipulation outside of Python will not be capture and your code will most likely fail.
-
-Be sure to use labels and text within the Notebook so that each model is clearly labeled.  Only submit one Notebook file for the entire assignment, not one Notebook per individual model.
+All calculations must be done within Python.  The Data File has been ‘pre-cleaned’ for you so no formatting, calculations or data clean-up in Excel is required.
 
 # Model 4a: Python Risk and Return Calculations
 Create a model in Python that allows the user to enter a ticker from the Data File and Python will return each of the following:
