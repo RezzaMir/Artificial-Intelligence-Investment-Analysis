@@ -1,6 +1,6 @@
 # Investment Analysis (Python Modelling)
 
-Note: This project uses the Excel data file titled 'Assign 4.xlsx' (Date File).  You will also need to download Python and related software to complete this project.
+This project uses the Excel data file titled 'Assign 4.xlsx' (Date File).  You will also need to download Python and related software to complete this project.
 
 # Assignment Set Up
 The output for this project will be the Jupyter Notebook file that you create in making the model below.
