@@ -1,4 +1,4 @@
-# Investment Analysis (Python Modelling)
+# AI - Investment Analysis
 
 This project uses the Excel data file titled 'Assign 4.xlsx' (Date File).  You will also need to download Python and related software to complete this project.
 
