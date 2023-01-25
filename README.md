@@ -2,6 +2,8 @@
 
 This project uses the Excel data file titled 'Assign 4.xlsx' (Date File).  You will also need to download Python and related software to complete this project.
 
+Here is Full Project: https://github.com/RezzaMir/Artificial-Intelligence-Investment-Analysis/blob/e49c8c212686138dba0e968bf4bb4369a5893ae9/Investment%20analysis.ipynb
+
 # Project Set Up
 The output for this project will be the Jupyter Notebook file that you create in making the model below.
 
